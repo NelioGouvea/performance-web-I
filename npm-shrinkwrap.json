@@ -695,9 +695,9 @@
       }
     },
     "caniuse-db": {
-      "version": "1.0.30001494",
-      "resolved": "https://registry.npmjs.org/caniuse-db/-/caniuse-db-1.0.30001494.tgz",
-      "integrity": "sha512-BoStwcJpkG6GKhqyWNUVZzpuYxegOKqFqfbpAKIJlDtxJRsncvNK1qgWvDu3K4IoD6OZL1byCkvmsOwpveJBIA==",
+      "version": "1.0.30001515",
+      "resolved": "https://registry.npmjs.org/caniuse-db/-/caniuse-db-1.0.30001515.tgz",
+      "integrity": "sha512-xm/Fbjo09QRliBdFiaEBaD29QgEHxU6bbTGLSNTGvJ1t1XHcHp/GOVyjJj/uYsmy2R0VjKNXrwEO46WYFMfacA==",
       "dev": true
     },
     "capture-stack-trace": {
@@ -2378,9 +2378,9 @@
       "integrity": "sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow=="
     },
     "electron-to-chromium": {
-      "version": "1.4.419",
-      "resolved": "https://registry.npmjs.org/electron-to-chromium/-/electron-to-chromium-1.4.419.tgz",
-      "integrity": "sha512-jdie3RiEgygvDTyS2sgjq71B36q2cDSBfPlwzUyuOrfYTNoYWyBxxjGJV/HAu3A2hB0Y+HesvCVkVAFoCKwCSw==",
+      "version": "1.4.458",
+      "resolved": "https://registry.npmjs.org/electron-to-chromium/-/electron-to-chromium-1.4.458.tgz",
+      "integrity": "sha512-fYaH2f9dlJ/W3EV7wpRgzAoE85UwCUFeJIiL24PCRtvzdXJNy3AZdS/0zLqw5Omnp9GSR/hApMUQjacW2nfgsw==",
       "dev": true
     },
     "encodeurl": {
@@ -7528,9 +7528,9 @@
       },
       "dependencies": {
         "semver": {
-          "version": "5.7.1",
-          "resolved": "https://registry.npmjs.org/semver/-/semver-5.7.1.tgz",
-          "integrity": "sha512-sauaDf/PZdVgrLTNYHRtpXa1iRiKcaebiKQ1BJdpQlWH2lCvexQdX55snPFyK7QzpudqbCI0qXFfOasHdyNDGQ==",
+          "version": "5.7.2",
+          "resolved": "https://registry.npmjs.org/semver/-/semver-5.7.2.tgz",
+          "integrity": "sha512-cBznnQ9KjJqU67B52RMC65CMarK2600WFnbkcaiwWq3xy/5haFJlshgnpjovMVJ+Hff49d8GEn0b87C5pDQ10g==",
           "dev": true,
           "optional": true
         }
